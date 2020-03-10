@@ -33,5 +33,5 @@ AUTH_USERS = list(set(AUTH_USERS))
 EVAL_CMD_TRIGGER = Config.EVAL_CMD_TRIGGER
 EXEC_CMD_TRIGGER = Config.EXEC_CMD_TRIGGER
 
-HELP_STICKER = "CAADAgAD6AkAAowucAABsFGHedLEzeUWBA"
+HELP_STICKER = "Assalaam Aleykum \nJisomee Kupitia Link hii\n  👇\n https://telegra.ph/i-love-islam-01-24."
 PROCESS_RUNNING = "processing ..."
